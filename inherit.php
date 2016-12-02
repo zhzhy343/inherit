@@ -224,9 +224,6 @@ class inherit
                 }
             }
 
-            if ($g == 99) {
-                continue;
-            }
             echo date('Y-m-d H:i:s') . " begin generate next generation\n";
 
             $sum = 0;
